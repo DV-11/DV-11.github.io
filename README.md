@@ -1,1 +1,4 @@
-# DV-11.github.io
+# David Valero Martinez 
+AI Automation Officer at Spliethoff 
+
+MSc Data Science from Utrecht University 
